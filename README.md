@@ -2,7 +2,7 @@
 
 A responsive and interactive **Deadpool-themed e-commerce website** built using **HTML, CSS, and JavaScript**.  
 The project showcases a complete front-end shopping experience including product listings, cart functionality, and smooth UI interactions — all without using any frameworks.
----
+
 ---
 
 ## 🚀 Features
